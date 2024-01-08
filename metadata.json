@@ -3,5 +3,6 @@
   "symbol": "EGG",
   "description": "Token de la promotion H5 Hetic 2023-2024",
   "uri":"https://raw.githubusercontent.com/HorHakim/EGGTIC/main/metadata.json", 
-  "image": "https://raw.githubusercontent.com/HorHakim/EGGTIC/main/logo.png"
+  "image": "https://raw.githubusercontent.com/HorHakim/EGGTIC/main/logo.png",
+  "seller_fee_basis_points":0
 }
